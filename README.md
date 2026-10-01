@@ -1,6 +1,211 @@
+<p align="center">
+  <a href="https://www.alexandremartins.dev/">
+    <img src="https://www.alexandremartins.dev/assets/alexandre-martins-r5Ufy9Ko.jpeg" alt="Retrato de Alexandre Martins" width="220" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandremartinx) 
+<p align="center">
+  <code>&gt;_ alexandre.martins</code>
+</p>
 
-## 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<h1 align="center">Alexandre<br />Martins.</h1>
+
+<p align="center">
+  <strong>Engenheiro de software sênior</strong> / Arquiteto de soluções
+</p>
+
+<p align="center">
+  <code>ABERTO A PROJETOS E CONSULTORIA</code><br />
+  <code>LEME · INTERIOR DE SP, BRASIL · DESDE 2016</code>
+</p>
+
+<p align="center">
+  <a href="https://www.alexandremartins.dev/#projetos">Explorar projetos</a>
+  ·
+  <a href="mailto:alexandremartinx@gmail.com">Entrar em contato</a>
+  ·
+  <a href="https://www.linkedin.com/in/alexandremartinx/">LinkedIn</a>
+  ·
+  <a href="https://github.com/alexandremartinxx">GitHub</a>
+</p>
+
+---
+
+## 01 / Sobre mim
+
+```txt
+> cat sobre_mim.txt
+// O código é o meio. O impacto é o objetivo.
+```
+
+## Faço sistemas difíceis ficarem claros e sustentáveis.
+
+Sou engenheiro de software sênior, arquiteto de soluções e consultor de tecnologia. Em mais de uma década, passei pela educação tecnológica e por plataformas críticas de saúde, serviços financeiros, varejo e indústria. Gosto de aproximar estratégia, arquitetura e código para entregar software que aguenta uso real.
+
+Atuo de ponta a ponta: desenho sistemas, tomo decisões técnicas, desenvolvo produtos e acompanho a operação depois que eles vão para produção. Pela [MFactor Tecnologia](https://www.mfactor.dev/), construo e mantenho soluções para organizações de diferentes portes, com experiência em Java, Spring, Golang, Python, .NET, TypeScript, React, AWS, GCP, Kubernetes, serverless, DevOps, SaaS e IA aplicada.
+
+<p>
+  <code>Arquitetura de software</code>
+  <code>Java & Spring</code>
+  <code>Golang</code>
+  <code>Python</code>
+  <code>.NET</code>
+  <code>Cloud & Kubernetes</code>
+  <code>DevOps</code>
+  <code>Dados & IA</code>
+</p>
+
+<table>
+  <tr>
+    <td><strong>10+</strong><br /><sub>anos de carreira</sub></td>
+    <td><strong>250+</strong><br /><sub>repositórios privados</sub></td>
+    <td><strong>50+</strong><br /><sub>projetos em operação</sub></td>
+    <td><strong>35+</strong><br /><sub>em manutenção periódica</sub></td>
+  </tr>
+</table>
+
+---
+
+## 02 / Trajetória
+
+## Experiência na prática.
+
+Da primeira linha de código à responsabilidade por plataformas e equipes.
+
+| # | Empresa | Papel | Entrega |
+|---|---|---|---|
+| 01 | **VBAM** | Engenheiro de software sênior | Projeto e evolução de plataformas escaláveis com serverless, microserviços, infraestrutura e engenharia de dados. Atuação em pagamentos, varejo, health tech e inteligência artificial. |
+| 02 | **EezyCare** | Coordenador de tecnologia e projetos & desenvolvedor sênior | Coordenação técnica de plataformas de saúde mental e gestão empresarial, da arquitetura à sustentação. Produtos usados por mais de 12 mil pessoas. |
+| 03 | **F1RST Digital Services · Nava** | Desenvolvedor back-end pleno | Sistemas financeiros de alta escala com Java, Spring, Angular, mensageria, automação e infraestrutura. Prioridade para segurança, estabilidade e performance. |
+| 04 | **Napp Solutions** | Desenvolvedor full-stack | Produtos para o setor farmacêutico e integração de lojas físicas a marketplaces. APIs, dados, automações e aplicações web em diferentes linguagens. |
+| 05 | **Projetos web** | Web Developer | Interfaces responsivas e aplicações web com React, Vue.js, Node.js, TypeScript, APIs REST e Git. Trabalho próximo da evolução do ecossistema web. |
+| 06 | **Maker Robotics** | Desenvolvedor de conteúdo educacional | Materiais e aulas de C, C++, Python e Scratch para aproximar mais pessoas da programação. |
+
+---
+
+## 03 / Trabalho selecionado
+
+## Projetos.
+
+Alguns produtos, sites e ferramentas que ajudei a tirar do papel e manter de pé.
+
+### 01 / Sites
+
+| # | Categoria | Projeto |
+|---|---|---|
+| 01 | Health tech | [EezyCare](https://eezycare.com.br) |
+| 02 | Saúde mental | [EezyFamily](https://eezyfamily.eezycare.com.br/) |
+| 03 | Mídia | [TV Leme](https://tv-leme-mfactor.vercel.app/) |
+| 04 | Indústria | [Emex Structures](https://emex-structures-landing.vercel.app/) |
+| 05 | Varejo | [Livin Market](https://www.livinmarket.com.br/) |
+| 06 | Transparência | [SSP Transparency Portal](https://ssp-transparency-portal.vercel.app/) |
+| 07 | Institucional | [Núcleo 7 Penas](https://www.nucleo7penas.com.br/) |
+| 08 | E-commerce | [Sete Sabores Emporium](https://sete-sabores-emporium.vercel.app/) |
+| 09 | Indústria | [Renovar Implementos](https://www.renovarimplementos.com.br/) |
+| 10 | Produto digital | [Aralys](https://aralys.mfactor.dev/) |
+| 11 | Experiência | [Wine & Jazz](https://winejazzs.vercel.app/) |
+| 12 | Criativo | [Lari Arte](https://www.lariarte.com.br/) |
+| 13 | Bem-estar | [Tosme Massage](https://tosme-massage.vercel.app/) |
+| 14 | Institucional | [Roberto Botelho Digital](https://roberto-botelho-digital.vercel.app/) |
+| 15 | Educação | [Primeiros Passos](https://primeiros-passos-acolhedora.vercel.app/) |
+| 16 | Institucional | [Ana Bezerra](https://ana-bezerra.vercel.app/) |
+| 17 | Gastronomia | [Tripa Rio](https://tripario.mfactor.dev/) |
+
+### 02 / SaaS
+
+| Produto | Categoria | Contexto |
+|---|---|---|
+| [Service ERP](https://service-erp.mfactor.dev/) | Gestão empresarial | ERP para organizar operação, processos e crescimento sem perder rastreabilidade. |
+| [Oracle Advisor](https://oracleadvisor.tech/) | Inteligência de dados | Dados e IA para apoiar análises e decisões com mais contexto. |
+
+### 03 / Projetos do GitHub
+
+| Repositório | Categoria |
+|---|---|
+| [MFactor-Tecnologia/quarkus_fluxo](https://github.com/MFactor-Tecnologia/quarkus_fluxo) | Backend |
+| [MFactor-Tecnologia/geopy](https://github.com/MFactor-Tecnologia/geopy) | Geotecnologia |
+| [MFactor-Tecnologia/c_mini_compiler](https://github.com/MFactor-Tecnologia/c_mini_compiler) | Compiladores |
+| [MFactor-Tecnologia/database_to_sheet](https://github.com/MFactor-Tecnologia/database_to_sheet) | Automação |
+
+---
+
+## 04 / Código & impacto
+
+## Além do commit.
+
+Tecnologia importa mais quando muda a vida de alguém fora da tela. Fui professor voluntário de programação em projetos para crianças em igrejas protestantes e professor popular, com aulas gratuitas para mais de 15 alunos. Ensinar continua sendo uma parte importante do meu trabalho.
+
+```txt
+> ensinar é multiplicar possibilidades_
+```
+
+### github/activity
+
+<p>
+  <a href="https://github.com/alexandremartinxx">
+    <img alt="Contribuições no último ano" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20ano&query=%24.total.lastYear&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Falexandremartinxx%3Fy%3Dlast&color=006AFF&labelColor=0f172a" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/alexandremartinxx">
+    <img alt="Calendário de contribuições de Alexandre Martins no GitHub" src="https://ghchart.rshah.org/006aff/alexandremartinxx" />
+  </a>
+</p>
+
+<p>
+  <sub>FONTE: GITHUB · ATUALIZAÇÃO AUTOMÁTICA · mesma base pública do calendário anual de contribuições usado no site.</sub>
+</p>
+
+---
+
+## 05 / Confiança construída
+
+## Empresas que já trabalharam comigo.
+
+<p><code>50+ EMPRESAS ATENDIDAS</code></p>
+
+<p>
+  <code>EezyCare</code>
+  <code>Primeiros Passos</code>
+  <code>Korin Agricultura</code>
+  <code>Emex</code>
+  <code>Chepa</code>
+  <code>Livin</code>
+  <code>BFX Peças Automotivas</code>
+  <code>V7 Pay</code>
+  <code>Vupt</code>
+  <code>Auto-NF</code>
+  <code>Vendi+</code>
+  <code>Renovar</code>
+  <code>Synapsia</code>
+  <code>Tripa-Rio</code>
+</p>
+
+---
+
+## 06 / Vamos construir
+
+## O próximo passo começa aqui.
+
+Se você tem um desafio de engenharia, arquitetura ou produto, me conte o contexto. A gente transforma a ideia em um plano e depois em entrega.
+
+```sh
+nova_mensagem.sh
+```
+
+- E-mail: [alexandremartinx@gmail.com](mailto:alexandremartinx@gmail.com)
+- WhatsApp: [+55 (19) 97148-5856](https://wa.me/5519971485856?text=Ol%C3%A1%2C%20Alexandre!%20Vim%20pelo%20seu%20portf%C3%B3lio%20e%20quero%20conversar%20sobre%20um%20projeto%20de%20site%2C%20sistema%20personalizado%2C%20SaaS%2C%20dados%20ou%20IA.%20Podemos%20conversar%3F)
+- Localização: Interior de São Paulo, Brasil
+- LinkedIn: [alexandremartinx](https://www.linkedin.com/in/alexandremartinx/)
+- GitHub: [alexandremartinxx](https://github.com/alexandremartinxx)
+
+---
+
+<p align="center">
+  <a href="https://www.alexandremartins.dev/"><code>&gt;_ alexandre.martins</code></a>
+  <br />
+  <sub>ENGENHARIA PARA PROBLEMAS REAIS.</sub>
+  <br />
+  <a href="https://www.alexandremartins.dev/">alexandremartins.dev</a>
+</p>
